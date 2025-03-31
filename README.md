@@ -1,6 +1,6 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm David Aniekan
+# 👋 Hi, I'm David Aniekan Jonah
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
