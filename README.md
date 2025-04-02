@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My First Repo 🚀
+# Welcome To My First Repo 🚀
 
 # 👋 Hi, I'm David Aniekan
 
@@ -80,4 +80,4 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davidaniekan&show_icons=true&theme=radical)
